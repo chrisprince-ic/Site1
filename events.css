@@ -78,11 +78,11 @@
 
 @media (max-width: 575px) {
    .u-section-1 {
-    min-height: 591px;
+    min-height: auto;
   }
 
   .u-section-1 .u-sheet-1 {
-    min-height: 261px;
+    min-height: 260px;
   }
 
   .u-section-1 .u-text-1 {
