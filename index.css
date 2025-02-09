@@ -7,7 +7,10 @@
 .u-section-1 .u-sheet-1 {
   min-height: 711px;
 }
-
+.u-logo-image u-logo-image-1{
+	width:80px;
+	height:80px;
+}
 .u-section-1 .u-text-1 {
   text-shadow: 2px 2px 8px rgba(0,0,0,0.2);
   --animation-custom_in-translate_x: 0px;
